@@ -9,12 +9,9 @@ This program was written by me back in the 1990s.  I lost control of it on Sourc
 <br><br>
 ![image](https://github.com/inwtx/Perpetual-Reminder/assets/32821617/8bc72912-7828-4ad8-a607-bf9a747114e4)
 <br><br>
-Click on the 'Perpetual-Reminder.zip' file above and then click on the ![image](https://github.com/inwtx/Perpetual-Reminder/assets/32821617/fe322e26-dab1-484d-a60a-3a0e6b753c2f)
+Click on the 'Perpetual-Reminder.zip' file above and then click on the ![image](https://github.com/inwtx/Perpetual Reminder/assets/32821617/fe322e26-dab1-484d-a60a-3a0e6b753c2f)
  image button on the right side of page
 to download.
-
-
-
 <br><br><br><br>
 
 
